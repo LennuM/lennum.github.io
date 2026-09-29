@@ -1,2 +1,2 @@
 # lennum.github.io
-ihansama
+Sää sovellus
